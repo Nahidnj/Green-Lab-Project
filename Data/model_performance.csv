@@ -1,0 +1,1363 @@
+Task,Prompt,Model,Response,Duration (s),GPU Utilization (%),GPU Power (W),VRAM Usage (MB),CPU Utilization (%),CPU Power (j)
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,15.8738055229187,49.0,71.64,11853.0,3.2,182430.472124
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",6.45635461807251,94.0,68.64,11983.0,2.9,184400.166789
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",10.03606367111206,0.0,54.3,11943.0,3.1,184951.721163
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,15.791090726852415,96.0,81.43,11825.0,2.6,186062.698177
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",6.11971640586853,98.0,67.0,11907.0,3.2,188007.246544
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",11.517942905426024,97.0,62.32,11907.0,3.2,188522.727402
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,16.185439586639404,96.0,72.64,11825.0,2.9,189816.96298
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",6.091060161590576,92.0,79.94,11907.0,2.7,191774.700766
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",9.815327167510986,88.0,65.38,11907.0,3.1,192292.446755
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,16.033069610595703,96.0,75.3,11825.0,2.7,193371.675987
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",6.167316913604736,20.0,70.59,11907.0,3.1,195318.936017
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",9.948744535446169,88.0,75.51,11907.0,2.5,195843.764324
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,15.657952785491943,96.0,74.11,11825.0,3.1,196945.906156
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",5.947420835494995,93.0,80.44,11907.0,2.7,198872.034526
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",11.624231100082396,44.0,66.55,11907.0,3.1,199386.969365
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,16.47794818878174,70.0,68.28,11825.0,3.1,200678.247675
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",6.169180870056152,93.0,67.32,11907.0,3.1,202687.534402
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",9.997900009155272,100.0,59.05,11907.0,3.1,203226.852784
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,15.812482595443726,97.0,56.94,11825.0,3.1,204339.674948
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",6.002741813659668,85.0,68.79,11907.0,3.0,206297.948194
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",9.88988757133484,100.0,57.24,11907.0,3.1,206832.591417
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,17.664489269256592,93.0,74.92,11825.0,2.7,207929.236315
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",6.3156328201293945,20.0,71.98,11907.0,3.2,210132.331017
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",10.079097986221312,91.0,70.99,11907.0,3.2,210678.315276
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,15.72331714630127,100.0,60.19,11825.0,3.1,211776.837549
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",5.980254173278809,89.0,71.73,11907.0,2.7,213696.760857
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",9.996074199676514,100.0,54.86,11907.0,3.1,214225.12248
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,16.11722445487976,100.0,58.15,11825.0,3.1,215333.056961
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",6.243659257888794,86.0,70.7,11907.0,2.9,217327.310217
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",9.83826494216919,99.0,57.37,11907.0,3.1,217875.186561
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,15.878695726394652,100.0,57.85,11825.0,3.1,218939.154052
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",6.191514730453491,88.0,79.08,11907.0,2.3,220908.788781
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",11.787299156188965,100.0,64.25,11907.0,3.2,221449.624554
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,16.37871217727661,100.0,56.42,11825.0,3.1,222779.902033
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",6.098514795303345,90.0,72.52,11907.0,4.1,224758.748407
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",9.985243320465088,100.0,57.37,11907.0,3.1,225300.316723
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,15.961089611053469,69.0,67.57,11825.0,3.1,226390.488981
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",6.1091039180755615,92.0,67.88,11907.0,3.0,228371.182885
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",9.811908721923828,96.0,57.44,11907.0,3.2,228910.807358
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,18.46170425415039,100.0,65.57,11825.0,3.1,229988.427341
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",7.247132062911987,88.0,79.5,11907.0,2.7,232309.055494
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",10.09073567390442,89.0,73.86,11907.0,2.6,232920.089514
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,16.297345876693726,96.0,68.48,11825.0,3.1,234040.111305
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",6.0650084018707275,92.0,80.5,11907.0,2.6,236045.663482
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",9.847126483917236,87.0,72.8,11907.0,2.4,236574.252644
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,15.842672109603882,96.0,67.4,11825.0,2.9,237652.895696
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",6.021585702896118,90.0,80.44,11907.0,2.5,239609.441774
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",11.750895500183104,100.0,61.76,11907.0,3.1,240128.056291
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,16.496304512023926,96.0,58.31,11825.0,3.1,241466.802253
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",6.108331203460693,93.0,70.04,11907.0,2.5,243480.072001
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",9.90233874320984,100.0,62.4,11907.0,3.1,244006.844029
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,15.883573770523071,47.0,68.1,11825.0,3.1,245114.023324
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",5.9893553256988525,100.0,61.63,11907.0,3.1,247099.673148
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",12.02492642402649,92.0,79.14,11907.0,2.6,247617.918342
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,16.037463665008545,95.0,77.59,11825.0,3.1,248873.96719
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",6.0861101150512695,100.0,51.37,11907.0,3.1,250845.724837
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",9.84507703781128,92.0,79.48,11907.0,2.5,251361.166694
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,15.781255960464478,92.0,77.75,11825.0,2.0,252446.024085
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",6.003754138946533,91.0,78.53,11907.0,2.7,254376.130289
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",10.035845279693604,88.0,78.77,11907.0,2.3,254890.667241
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,15.942835807800291,96.0,70.11,11825.0,3.0,256006.176104
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",6.261213541030884,93.0,80.54,11907.0,2.6,257988.680855
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",9.98419427871704,88.0,66.57,11907.0,3.1,258542.148311
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,15.968850374221802,100.0,55.51,11825.0,3.1,259622.791723
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",6.092102289199829,100.0,60.08,11907.0,3.1,261610.963452
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",11.68551230430603,90.0,67.33,11907.0,3.1,262132.491719
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,16.172719717025757,95.0,59.96,11825.0,3.1,1313.79229
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",6.055573463439941,93.0,75.4,11907.0,2.6,3284.120926
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",10.092373371124268,89.0,66.15,11907.0,3.0,3808.104936
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,16.02286410331726,97.0,69.06,11825.0,3.1,4897.883152
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",5.9917168617248535,86.0,70.69,11907.0,2.4,6868.021114
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",12.094443321228027,0.0,64.3,11907.0,3.1,7394.398062
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,16.476409435272217,100.0,60.38,11825.0,3.1,8787.056301
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",6.259438753128052,93.0,66.55,11907.0,3.1,10796.365183
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",10.278935194015505,100.0,56.75,11907.0,3.2,11349.797665
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,15.757112503051758,100.0,58.45,11825.0,3.1,12468.325808
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",5.970813989639282,92.0,69.97,11907.0,2.6,14414.338404
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",10.041091680526732,85.0,66.69,11907.0,3.1,14937.139312
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,15.84566855430603,100.0,57.42,11825.0,3.2,16026.269824
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",6.083848237991333,93.0,72.43,11907.0,2.7,17974.92133
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",11.96397590637207,18.0,70.89,11907.0,3.1,18514.591335
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,16.19144344329834,0.0,70.26,11825.0,3.1,19878.227004
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",6.266104698181152,83.0,65.15,11907.0,3.1,21876.359157
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",9.987531900405884,100.0,57.02,11907.0,3.1,22434.612977
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,15.589930057525637,100.0,58.83,11825.0,3.2,23539.735209
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",5.915217161178589,100.0,62.94,11907.0,3.1,25488.882441
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",10.127408266067505,92.0,78.84,11907.0,2.5,26010.670412
+classification,Classify the sentiment of the following text: 'I love this product!',Qwen/Qwen2.5-7B,Classify the sentiment of the following text: 'I love this product!' The sentiment of the text 'I love this product!' is positive.,15.941610336303713,92.0,78.68,11825.0,2.5,27122.319848
+classification,Classify the sentiment of the following text: 'I love this product!',google/gemma-2-2b-it,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment of the",6.088550567626953,100.0,65.52,11907.0,3.1,29087.39691
+classification,Classify the sentiment of the following text: 'I love this product!',mistralai/Mistral-7B-Instruct-v0.3,"Classify the sentiment of the following text: 'I love this product!'
+
+The sentiment",13.058528184890749,100.0,64.49,11907.0,3.2,29615.354604
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",26.586081981658936,96.0,80.96,11825.0,2.7,31118.502428
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",6.028782844543457,100.0,55.8,11907.0,3.1,34922.874708
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",10.885977268218994,32.0,63.67,11907.0,3.1,35445.073017
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",25.71853804588318,96.0,78.61,11825.0,2.7,36642.841008
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",6.103980541229248,51.0,66.6,11907.0,3.2,40375.770783
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",10.236539125442505,84.0,78.26,11907.0,2.6,40894.949996
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",27.590181589126587,0.0,64.99,11825.0,3.2,42062.178453
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",6.633903980255127,92.0,75.04,11907.0,2.7,46057.790539
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",10.49333357810974,86.0,66.59,11907.0,2.8,46632.231878
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",26.283934354782104,34.0,74.18,11825.0,3.1,47822.72407
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",5.976458311080933,100.0,54.51,11907.0,3.1,51604.027683
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",10.239905834197998,100.0,61.46,11907.0,3.1,52120.104182
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",25.70680856704712,96.0,78.42,11825.0,2.9,53274.676482
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",6.200283050537109,78.0,63.76,11907.0,3.1,57022.654619
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",12.562671661376951,92.0,78.89,11907.0,2.5,57551.526617
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",26.62828826904297,96.0,65.68,11825.0,3.1,58992.933511
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",6.087039470672607,86.0,74.41,11907.0,2.5,62835.897367
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",10.744873523712158,84.0,72.93,11907.0,2.7,63355.924722
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",25.57900643348694,19.0,73.45,11825.0,3.1,64541.327327
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",6.020995616912842,100.0,57.12,11907.0,3.1,68252.621476
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",10.335412979125977,100.0,52.68,11907.0,3.2,68775.999653
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",25.396618366241455,96.0,80.46,11825.0,2.0,69958.924481
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",6.22294545173645,100.0,66.71,11907.0,3.1,73627.389455
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",10.550347566604614,13.0,57.62,11907.0,3.2,74176.336841
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",27.860381603240967,100.0,63.61,11825.0,3.1,75370.658368
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",6.645715713500977,92.0,71.86,11907.0,2.6,79374.772935
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",10.566545248031616,92.0,66.58,11907.0,3.0,79962.748236
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",26.107505798339844,95.0,81.33,11825.0,2.7,81147.697778
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",5.971226453781128,100.0,62.08,11907.0,3.1,84979.810893
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",10.426609754562378,88.0,75.59,11907.0,3.0,85506.933079
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",25.93949580192566,100.0,60.25,11825.0,3.2,86707.3542
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",6.308355093002319,22.0,72.93,11907.0,2.8,90502.407168
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",10.447782039642334,86.0,77.86,11907.0,2.4,91043.82253
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",26.258680820465088,96.0,76.44,11825.0,2.3,92230.966891
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",6.184133291244507,0.0,67.66,11907.0,3.1,96058.305725
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",12.704201459884644,88.0,77.59,11907.0,2.7,96594.414949
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",26.36640191078186,100.0,53.37,11825.0,3.1,98051.158351
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",5.9961206912994385,85.0,69.86,11907.0,2.8,101879.548391
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",10.460617780685425,100.0,48.81,11907.0,3.1,102403.580436
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",25.44894862174988,100.0,64.05,11825.0,3.1,103575.95335
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",6.079312801361084,93.0,69.58,11907.0,3.1,107275.97171
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",12.71301531791687,5.0,66.09,11907.0,3.1,107806.217484
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",26.362788677215576,96.0,78.87,11825.0,2.4,109291.395933
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",6.112771987915039,100.0,64.39,11907.0,3.2,113083.984307
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",10.373658418655396,40.0,68.39,11907.0,3.2,113614.235269
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",25.304522037506104,96.0,67.89,11825.0,3.1,114789.314048
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",6.120040655136108,90.0,80.13,11907.0,2.1,118454.703469
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",12.763689756393433,88.0,70.39,11907.0,2.4,118975.798448
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",26.451148986816406,100.0,59.56,11825.0,3.1,120452.451345
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",6.104070663452148,91.0,73.07,11907.0,2.7,124285.209966
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",10.698452949523926,86.0,73.6,11907.0,2.5,124820.685218
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",25.57942366600037,0.0,62.92,11825.0,3.2,126000.272287
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",6.078439235687256,36.0,68.76,11907.0,3.1,129746.355958
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",10.34336280822754,93.0,74.55,11907.0,2.9,130267.298289
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",27.794429302215576,95.0,81.1,11825.0,2.6,131441.560542
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",7.093122959136963,85.0,69.85,11907.0,3.1,135449.785999
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",10.401887893676758,85.0,68.23,11907.0,3.1,136074.420264
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",25.35010600090027,96.0,80.24,11825.0,2.5,137239.359115
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",6.241549253463745,100.0,63.16,11907.0,3.1,140924.434581
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",10.262901544570925,100.0,60.26,11907.0,3.1,141464.221224
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",25.759854555130005,96.0,68.26,11825.0,3.1,142633.975066
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",6.112133026123047,93.0,73.32,11907.0,1.9,146360.136913
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",12.45915412902832,100.0,59.01,11907.0,3.2,146900.666413
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",26.51429295539856,96.0,80.66,11825.0,2.7,148338.619153
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",6.2262585163116455,100.0,61.18,11907.0,3.2,152172.5953
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",10.483295440673828,0.0,59.1,11907.0,3.1,152717.972749
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",25.32449984550476,97.0,71.84,11825.0,2.2,153913.509361
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",6.302404165267944,0.0,64.77,11907.0,3.7,157588.537917
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",10.442454099655151,89.0,77.15,11907.0,2.5,158153.800081
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",25.79951763153076,0.0,66.69,11825.0,3.2,159326.823811
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",6.456577301025391,93.0,68.64,11907.0,3.1,163119.964308
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",10.33073616027832,97.0,59.54,11907.0,3.1,163678.886828
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",25.317617654800415,96.0,69.31,11825.0,3.0,164861.12251
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",6.392925977706909,83.0,79.58,11907.0,2.7,168562.207517
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",10.462528944015505,88.0,76.5,11907.0,2.3,169130.390755
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",26.033706426620483,98.0,65.23,11825.0,3.1,170311.56339
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",6.143586158752441,91.0,77.41,11907.0,2.5,174104.540192
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",12.058165788650513,91.0,77.7,11907.0,2.6,174656.757833
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",25.718706369400024,0.0,23.77,11825.0,0.1,176021.799993
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",6.576339244842529,0.0,24.26,11907.0,0.0,179605.40648
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",11.03963017463684,0.0,23.46,11907.0,0.0,179962.339588
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",25.62121272087097,0.0,19.26,11825.0,0.0,180792.875364
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",6.305102109909058,0.0,24.06,11907.0,0.1,184067.744544
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",11.024654626846312,0.0,23.6,11907.0,0.0,184412.438974
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",28.606570959091187,0.0,13.54,11825.0,0.0,185268.351761
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",7.14483642578125,0.0,24.04,11907.0,0.0,188830.293753
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",10.909761667251589,0.0,23.9,11907.0,0.0,189231.42322
+classification,Is the following review positive or negative? 'The service was terrible.',Qwen/Qwen2.5-7B,"Is the following review positive or negative? 'The service was terrible.' The review is negative. The person is saying that the service they received was not good.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",25.72403764724731,0.0,18.6,11825.0,0.0,190075.109842
+classification,Is the following review positive or negative? 'The service was terrible.',google/gemma-2-2b-it,"Is the following review positive or negative? 'The service was terrible.'
+
+The review is **",6.352507591247559,0.0,24.2,11907.0,0.0,193330.969121
+classification,Is the following review positive or negative? 'The service was terrible.',mistralai/Mistral-7B-Instruct-v0.3,"Is the following review positive or negative? 'The service was terrible.'
+
+This review is",11.09978461265564,0.0,24.01,11907.0,0.0,193677.110691
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,14.17688512802124,0.0,24.11,11825.0,0.0,194517.923541
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",6.118710517883301,0.0,24.44,11907.0,0.0,195751.50925
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,15.551748037338257,0.0,24.19,11825.0,1.5,196636.213651
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",6.226553916931152,0.0,24.65,11907.0,0.0,197914.258535
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,14.122863054275513,0.0,24.14,11825.0,0.0,198662.527677
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",6.060250520706177,0.0,24.34,11907.0,0.0,199899.263769
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,14.603835105895996,0.0,24.15,11825.0,0.0,200728.246571
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",6.325025796890259,0.0,23.97,11907.0,0.0,201979.099021
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,14.292453050613403,0.0,24.17,11825.0,0.0,202742.581624
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",5.9992804527282715,0.0,24.47,11907.0,0.0,203987.51258
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,14.557271718978882,0.0,24.18,11825.0,0.0,204825.711789
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",6.0805535316467285,0.0,24.46,11907.0,0.1,206087.551699
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,14.344217777252195,0.0,24.3,11825.0,0.0,206849.348149
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",6.143932342529297,0.0,24.14,11907.0,0.0,208091.684324
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,18.822999715805057,0.0,24.31,11825.0,0.1,208943.144608
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",6.3831446170806885,0.0,24.49,11907.0,0.0,210511.325225
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,14.043898582458496,0.0,24.18,11825.0,0.1,211307.278143
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",6.015920400619507,0.0,24.71,11907.0,0.0,212524.713686
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,14.45960807800293,0.0,24.35,11825.0,0.0,213273.524697
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",6.191416263580322,0.0,24.64,11907.0,0.0,214506.662104
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,15.398216724395752,0.0,24.38,11825.0,0.0,215409.284061
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",6.334787607192993,0.0,24.42,11907.0,0.0,216698.118774
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,14.237308025360107,0.0,24.39,11825.0,0.0,217468.791056
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",5.9366374015808105,0.0,24.49,11907.0,0.9,218702.605036
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,15.043609142303469,0.0,24.3,11825.0,0.0,219515.652577
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",6.058548450469971,0.0,24.41,11907.0,0.2,220805.816876
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,14.117314338684082,0.0,24.38,11825.0,0.0,221566.214039
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",6.27004075050354,0.0,24.18,11907.0,0.1,222799.991703
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,16.37914252281189,0.0,24.43,11825.0,0.0,223556.838276
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",6.823606491088867,0.0,24.5,11907.0,0.5,225008.061856
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,14.313742637634276,0.0,24.47,11825.0,0.0,225815.396215
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",6.017455816268921,0.0,24.82,11907.0,0.0,227052.86082
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,14.227566957473757,0.0,24.43,11825.0,0.0,227789.782884
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",6.1018993854522705,0.0,24.59,11907.0,0.0,229029.640489
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,14.50115442276001,0.0,24.41,11825.0,0.1,229896.846643
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",6.0436224937438965,0.0,24.5,11907.0,0.1,231138.924335
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,15.737371683120728,0.0,24.26,11825.0,0.1,232084.152139
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",6.083755254745483,0.0,24.74,11907.0,0.0,233420.004249
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,14.750360250473022,0.0,24.36,11825.0,0.1,234297.799366
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",6.225649118423462,0.0,24.91,11907.0,0.1,235532.619447
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,14.256732940673828,0.0,24.44,11825.0,0.0,236287.915975
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",5.859050750732422,0.0,24.89,11907.0,0.0,237524.706998
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,14.7994704246521,0.0,24.55,11825.0,0.0,238359.359708
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",5.987968683242798,0.0,24.61,11907.0,0.1,239623.363491
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,14.208494901657104,0.0,24.52,11825.0,0.0,240398.839777
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",5.997036457061768,0.0,24.92,11907.0,0.1,241621.994788
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,14.595174789428713,0.0,24.49,11825.0,0.0,242465.365737
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",6.138400316238403,0.0,24.61,11907.0,0.0,243717.230391
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,14.15886116027832,0.0,24.64,11825.0,0.0,244448.106511
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",5.993446588516235,0.0,24.74,11907.0,0.0,245672.482343
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,16.23448348045349,0.0,24.76,11825.0,0.0,246423.11885
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",6.333400011062622,0.0,24.74,11907.0,0.0,247843.913979
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,14.272809982299805,0.0,24.68,11825.0,0.1,248614.854633
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",6.020254850387573,0.0,24.75,11907.0,0.1,249848.298191
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,14.129677057266235,0.0,24.7,11825.0,0.0,250602.196408
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",6.204260349273682,0.0,24.68,11907.0,0.0,251823.823713
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,15.476912021636965,0.0,24.62,11825.0,0.0,252771.353575
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",6.1449949741363525,0.0,25.06,11907.0,0.0,254080.25922
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',Qwen/Qwen2.5-7B,Analyze the sentiment of this tweet: 'Had a great day at the beach!' The sentiment of this tweet is positive.,14.407522439956663,0.0,24.62,11825.0,0.0,254828.158551
+sentiment_analysis,Analyze the sentiment of this tweet: 'Had a great day at the beach!',google/gemma-2-2b-it,"Analyze the sentiment of this tweet: 'Had a great day at the beach!'
+
+**Sentiment",6.038362741470337,0.0,25.19,11907.0,0.0,256052.910481
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",18.379268407821655,0.0,24.64,11825.0,0.0,256842.299208
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The",5.746722459793091,0.0,24.84,11907.0,0.1,258740.515723
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",9.99325156211853,0.0,24.58,11907.0,0.2,258999.839155
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",17.9580659866333,0.0,24.63,11825.0,0.0,259671.07407
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The",5.8153016567230225,0.0,24.8,11907.0,0.0,261553.85929
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",9.798885107040403,0.0,24.68,11907.0,0.0,261817.673495
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",17.734496593475342,0.0,24.64,11825.0,0.0,336.370415
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The",5.878499746322632,0.0,25.23,11907.0,0.0,2196.298088
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",12.87645936012268,0.0,24.65,11907.0,0.0,2460.741137
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",18.65997052192688,0.0,24.63,11825.0,0.0,3422.126798
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The",5.903325796127319,0.0,24.92,11907.0,0.0,5346.608749
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",9.97416925430298,0.0,24.56,11907.0,0.0,5614.723297
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",18.036088943481445,0.0,24.57,11825.0,0.0,6264.553237
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The",5.932455539703369,0.0,25.0,11907.0,0.0,8161.415263
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",9.698993921279907,0.0,24.61,11907.0,0.0,8427.624238
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",18.091911554336548,0.0,24.55,11825.0,0.0,9093.360693
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The",5.922357082366943,0.0,24.95,11907.0,0.0,10999.592873
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",9.90660285949707,0.0,24.37,11907.0,0.0,11259.179855
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",18.03178381919861,0.0,24.37,11825.0,0.0,11923.016596
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The",5.815446138381958,0.0,24.99,11907.0,0.0,13819.855185
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",11.584499835968018,0.0,24.33,11907.0,0.0,14085.663891
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",18.286983013153076,0.0,24.44,11825.0,0.0,14915.045557
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The",5.863213062286377,0.0,25.0,11907.0,0.0,16807.995606
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",9.956024646759031,0.0,24.38,11907.0,0.0,17072.096065
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",17.900994062423706,0.0,24.48,11825.0,0.1,17716.648981
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The",5.88912558555603,0.0,24.77,11907.0,0.0,19604.102767
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",9.711930751800535,0.0,24.53,11907.0,0.0,19865.331896
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",18.155383110046387,0.0,24.55,11825.0,0.1,20520.77315
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The",5.936619520187378,0.0,24.41,11907.0,0.0,22446.385164
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",12.707064628601074,0.0,24.5,11907.0,0.0,22713.592426
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",18.627273321151733,0.0,24.43,11825.0,1.2,23662.067476
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The",6.104840993881226,0.0,24.64,11907.0,0.0,25566.239298
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",9.86380100250244,0.0,24.29,11907.0,0.0,25828.006328
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",17.99532461166382,0.0,24.33,11825.0,0.0,26481.746964
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The",5.829813241958618,0.0,24.25,11907.0,0.0,28390.054701
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",9.853692770004272,0.0,24.3,11907.0,0.1,28653.491222
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",18.00129771232605,0.0,24.32,11825.0,0.1,29304.203057
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The",6.034741401672363,0.0,24.6,11907.0,0.0,31207.545352
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",12.553387641906738,0.0,24.37,11907.0,0.1,31472.947932
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",18.475043296813965,0.0,24.45,11825.0,0.0,32355.943657
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The",6.078455209732056,0.0,24.83,11907.0,0.0,34264.406667
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",9.89322829246521,0.0,24.39,11907.0,0.0,34532.617895
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",17.81484031677246,0.0,24.37,11825.0,0.1,35180.056362
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The",5.937973260879517,0.0,24.46,11907.0,0.0,37059.600256
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",9.721539974212646,0.0,24.32,11907.0,0.1,37326.353418
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",17.7013156414032,0.0,24.5,11825.0,0.0,37982.797783
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The",5.8446362018585205,0.0,24.5,11907.0,0.0,39848.724219
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",12.246552228927612,0.0,24.33,11907.0,0.0,40100.782229
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",18.77203345298767,0.0,24.4,11825.0,0.0,40942.436446
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The",6.113220691680908,0.0,24.64,11907.0,0.0,42892.210019
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",9.90801215171814,0.0,24.47,11907.0,0.1,43161.371135
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",17.78348970413208,0.0,24.41,11825.0,0.0,43816.368481
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The",5.824568271636963,0.0,24.34,11907.0,0.0,45708.65569
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",11.461997985839844,0.0,24.38,11907.0,0.0,45968.218502
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",18.504456281661987,0.0,24.54,11825.0,0.0,46710.992296
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The",5.961043119430542,0.0,24.37,11907.0,0.0,48628.038048
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",10.0359525680542,0.0,24.46,11907.0,0.0,48903.872791
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",17.855411291122437,0.0,24.41,11825.0,0.0,49560.492509
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The",5.9069554805755615,0.0,24.6,11907.0,0.0,51458.459696
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",10.081203699111938,0.0,24.36,11907.0,0.0,51713.24359
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",20.052279710769653,0.0,24.23,11825.0,0.0,52379.140689
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The",6.320450782775879,0.0,24.45,11907.0,0.0,54458.959461
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",10.021746635437012,0.0,24.24,11907.0,0.0,54737.908454
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",18.165281772613525,0.0,24.34,11825.0,0.0,55399.408287
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The",5.793752431869507,0.0,24.63,11907.0,0.1,57315.292725
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",10.28001070022583,0.0,24.34,11977.0,0.1,57577.247743
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",18.181772232055664,0.0,24.3,11955.0,0.6,58240.511914
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The sentiment of the statement is **negative**. 
+
+Here's why:
+
+* **""Disappointed""** is a strong negative emotion. 
+* The statement expresses a feeling of dissatisfaction with a purchase. 
+
+
+Let me know if you'd like to analyze another statement! 
+",8.358799457550049,100.0,74.08,10719.0,0.1,60131.276483
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",13.8340003490448,0.0,24.28,11791.0,0.1,60421.763288
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",18.781782388687137,0.0,24.3,11831.0,0.0,61467.82781
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The sentiment of the statement is **negative**. 
+
+Here's why:
+
+* **""Disappointed""** is a strong negative emotion. 
+* The statement expresses a feeling of dissatisfaction with a purchase. 
+
+
+Let me know if you'd like to analyze another statement! 
+",7.5927393436431885,100.0,74.01,11861.0,0.0,63401.343795
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",10.052424669265749,0.0,24.42,11831.0,0.0,63673.533345
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",18.252438068389893,0.0,24.3,11831.0,0.0,64347.877871
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The sentiment of the statement is **negative**. 
+
+Here's why:
+
+* **""Disappointed""** is a strong negative emotion. 
+* The statement expresses a feeling of dissatisfaction with a purchase. 
+
+
+Let me know if you'd like to analyze another statement! 
+",7.594889163970947,100.0,72.95,11861.0,0.0,66238.441269
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",11.869419813156128,0.0,24.34,11831.0,0.1,66500.256089
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",19.262388944625854,0.0,24.42,11831.0,0.5,67304.010684
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The sentiment of the statement is **negative**. 
+
+Here's why:
+
+* **""Disappointed""** is a strong negative emotion. 
+* The statement expresses a feeling of dissatisfaction with a purchase. 
+
+
+Let me know if you'd like to analyze another statement! 
+",7.497454643249512,100.0,73.77,11861.0,0.0,69240.536916
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",10.125324010849,0.0,24.42,11831.0,0.1,69507.58091
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",17.94858145713806,0.0,24.39,11831.0,0.0,70185.318188
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The sentiment of the statement is **negative**. 
+
+Here's why:
+
+* **""Disappointed""** is a strong negative emotion. 
+* The statement expresses a feeling of dissatisfaction with a purchase. 
+
+
+Let me know if you'd like to analyze another statement! 
+",7.473345518112183,100.0,74.24,11861.0,0.0,72032.110885
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",10.159669637680054,0.0,24.32,11831.0,0.0,72293.990097
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",18.253133535385132,0.0,24.32,11831.0,1.9,72968.673429
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The sentiment of the statement is **negative**. 
+
+Here's why:
+
+* **""Disappointed""** is a strong negative emotion. 
+* The statement expresses a feeling of dissatisfaction with a purchase. 
+
+
+Let me know if you'd like to analyze another statement! 
+",7.626654863357544,94.0,72.42,11861.0,1.9,74914.928517
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",11.664092779159546,2.0,24.44,11845.0,2.1,75246.436457
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",18.76994228363037,0.0,24.34,11877.0,1.6,76175.683041
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The sentiment of the statement is **negative**. 
+
+Here's why:
+
+* **""Disappointed""** is a strong negative emotion. 
+* The statement expresses a feeling of dissatisfaction with a purchase. 
+
+
+Let me know if you'd like to analyze another statement! 
+",7.524130821228027,100.0,73.06,11871.0,0.6,78279.961468
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",10.152942895889282,2.0,24.45,11845.0,0.5,78615.721106
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',Qwen/Qwen2.5-7B,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'?
+The sentiment of the statement 'I am very disappointed with my purchase.' is negative.",18.37208914756775,0.0,24.47,11831.0,0.5,79407.302454
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',google/gemma-2-2b-it,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+The sentiment of the statement is **negative**. 
+
+Here's why:
+
+* **""Disappointed""** is a strong negative emotion. 
+* The statement expresses a feeling of dissatisfaction with a purchase. 
+
+
+Let me know if you'd like to analyze another statement! 
+",7.422912359237671,100.0,74.1,11861.0,0.0,81445.24969
+sentiment_analysis,What is the sentiment of this statement: 'I am very disappointed with my purchase.',mistralai/Mistral-7B-Instruct-v0.3,"What is the sentiment of this statement: 'I am very disappointed with my purchase.'
+
+",10.268457889556885,0.0,24.35,11831.0,0.0,81726.452095
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,13.920811653137209,0.0,24.43,11831.0,0.0,82401.529407
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.589322090148926,100.0,46.47,11861.0,0.0,83557.774555
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",16.510713815689087,2.0,24.51,11831.0,0.4,83731.436586
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,15.179040908813477,0.0,24.45,11831.0,0.3,85344.714439
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.606302738189697,95.0,45.93,11861.0,0.0,86660.722056
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",16.77170467376709,0.0,24.33,11831.0,0.0,86839.781778
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,14.925636291503906,0.0,24.42,11831.0,0.2,88426.176582
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.796574354171753,95.0,45.98,11861.0,0.0,89622.909908
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",14.025121450424194,0.0,24.37,11831.0,0.1,89803.039879
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,14.275962114334106,0.0,24.35,11831.0,0.4,91154.265484
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.775033950805664,100.0,46.4,11861.0,0.0,92309.336563
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",15.567559719085692,0.0,24.36,11831.0,0.0,92496.432153
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,14.72118353843689,0.0,24.49,11831.0,0.1,93978.188309
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.725423336029053,100.0,45.77,11861.0,0.0,95172.405527
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",14.229947090148926,0.0,24.5,11831.0,0.0,95350.974772
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,14.19393277168274,1.0,24.59,11831.0,1.2,96710.784035
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.567878723144531,100.0,44.88,11861.0,0.0,97890.447092
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",14.142678022384644,0.0,24.32,11831.0,0.0,98083.852725
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,13.9757239818573,0.0,24.53,11831.0,0.0,99438.039749
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.521183490753174,100.0,46.81,11861.0,0.0,100574.6395
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",15.53718614578247,0.0,24.32,11831.0,0.0,100757.108821
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,15.38000464439392,0.0,24.48,11831.0,0.0,102232.586123
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.726136207580566,95.0,45.43,11861.0,0.0,103441.331319
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",14.100133895874023,0.0,24.45,11831.0,0.1,103632.214009
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,14.323845863342283,0.0,24.44,11831.0,0.8,104972.44062
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.551624536514282,100.0,46.09,11861.0,0.0,106130.169285
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",15.929779767990112,0.0,24.54,11831.0,0.1,106309.212527
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,14.565016746520996,0.0,24.43,11831.0,0.0,107790.597468
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.67884635925293,100.0,46.66,11861.0,0.0,108948.142783
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",14.091387033462524,0.0,24.4,11831.0,0.3,109131.160015
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,14.165446043014526,0.0,24.36,11831.0,0.3,110481.928347
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.699505090713501,95.0,43.88,11861.0,0.0,111641.268579
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",14.001285552978516,0.0,24.53,11831.0,0.0,111813.444103
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,14.185194969177246,0.0,24.54,11831.0,0.0,113150.542426
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.719704627990723,100.0,46.82,11861.0,0.0,114289.457235
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",16.098924160003662,0.0,24.45,11831.0,0.0,114473.934668
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,14.450186252593994,0.0,24.36,11831.0,0.2,115978.217316
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.624954700469971,100.0,43.57,11861.0,0.5,117161.776786
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",13.719114303588867,0.0,24.49,11831.0,0.1,117347.465153
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,14.324639081954956,0.0,24.49,11831.0,0.3,118660.315125
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.675428152084351,95.0,47.01,11861.0,0.0,119825.492501
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",14.244801998138428,0.0,24.48,11831.0,0.0,120001.624618
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,14.050865411758425,0.0,24.49,11831.0,0.7,121367.365018
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.576167106628418,100.0,47.01,11861.0,0.0,122507.046549
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",16.022202491760254,0.0,24.41,11831.0,0.1,122687.820012
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,14.44084858894348,0.0,24.49,11831.0,0.0,124200.57737
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.638799667358398,95.0,46.7,11861.0,0.0,125354.080887
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",14.028976202011108,0.0,24.47,11831.0,0.0,125544.552689
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,14.206366062164308,0.0,24.45,11831.0,0.1,126890.330372
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.635735034942627,100.0,43.8,11861.0,0.0,128100.377506
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",17.059016704559326,0.0,24.37,11831.0,0.0,128282.506678
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,15.317501306533812,0.0,24.32,11831.0,0.0,129931.652359
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.774881362915039,100.0,45.54,11861.0,0.0,131140.471469
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",13.839215993881226,0.0,24.42,11831.0,0.0,131326.413254
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,14.1399507522583,0.0,24.3,11831.0,0.0,132648.295429
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.67527437210083,97.0,46.61,11861.0,0.0,133785.556678
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",14.019311428070068,0.0,24.5,11831.0,0.0,133965.208867
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,14.165857076644896,0.0,24.48,11831.0,0.0,135295.68654
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.677821636199951,95.0,43.79,11861.0,0.0,136433.675997
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",15.374163150787354,0.0,24.59,11831.0,0.0,136607.426407
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,14.551603317260742,0.0,24.51,11831.0,0.6,138095.866017
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.801937818527222,97.0,46.96,11861.0,0.0,139269.153601
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",14.048704624176024,0.0,24.48,11831.0,0.0,139447.652595
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,13.956671714782717,0.0,24.55,11831.0,0.0,140795.229101
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.811542987823486,95.0,45.79,11861.0,0.0,141922.162435
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",16.53353500366211,0.0,24.44,11831.0,0.0,142101.37566
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,15.323177337646484,0.0,24.5,11831.0,0.0,143673.945243
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.722962141036987,100.0,45.76,11861.0,0.0,144847.509682
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",16.096335411071777,0.0,24.53,11831.0,0.0,145033.87389
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,14.56944727897644,0.0,24.43,11831.0,0.0,146551.161754
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.6712164878845215,100.0,46.79,11861.0,0.0,147680.90874
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",14.185794115066528,0.0,24.38,11831.0,0.0,147861.595594
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,14.310792207717896,0.0,24.48,11831.0,0.2,149221.054394
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.671405553817749,98.0,44.82,11861.0,0.0,150402.135111
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",14.101550579071043,0.0,24.46,11831.0,0.0,150578.918227
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,14.12717342376709,0.0,24.55,11831.0,0.0,151924.520801
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.648754358291626,95.0,45.78,11861.0,0.0,153079.431357
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",16.153881788253784,0.0,24.39,11831.0,0.0,153256.504268
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,15.192055940628052,0.0,24.42,11831.0,0.0,154787.153243
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.7733683586120605,100.0,46.84,11861.0,0.0,155949.600157
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",15.427015781402588,0.0,24.45,11831.0,0.1,156131.07595
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,14.901474475860596,0.0,24.46,11831.0,0.0,157641.131288
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.656878471374512,100.0,43.91,11861.0,0.0,158793.262067
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",13.858567476272585,0.0,24.42,11831.0,0.1,158973.754647
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,14.465932369232178,0.0,24.38,11831.0,0.3,160286.009649
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.636982679367065,100.0,45.49,11861.0,0.1,161500.705575
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",15.111189126968384,0.0,24.38,11831.0,0.0,161685.69674
+question_answering,What is the capital of France?,Qwen/Qwen2.5-7B,What is the capital of France? The capital of France is Paris.,14.52518081665039,0.0,24.41,11831.0,0.5,163157.471414
+question_answering,What is the capital of France?,google/gemma-2-2b-it,"What is the capital of France?
+
+The capital of France is **Paris**. 
+",5.791102409362793,98.0,46.7,11861.0,0.0,164324.432599
+question_answering,What is the capital of France?,mistralai/Mistral-7B-Instruct-v0.3,"What is the capital of France?
+
+Paris is the capital of France. It is",13.7422833442688,0.0,24.42,11831.0,0.0,164502.961134
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,12.68489146232605,0.0,24.45,11831.0,0.3,165821.740351
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.4757325649261475,96.0,42.26,11861.0,0.0,166734.243386
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",16.04192543029785,0.0,24.38,11831.0,0.0,166909.157672
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,13.534525871276855,0.0,24.4,11831.0,0.3,168279.855884
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.51531457901001,96.0,42.14,11861.0,0.0,169264.49643
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",15.746335506439207,0.0,24.32,11831.0,0.1,169441.490667
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,13.278249263763428,0.0,24.41,11831.0,0.0,170759.975451
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.558897495269775,94.0,42.12,11861.0,0.0,171695.382724
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",12.42606496810913,0.0,24.33,11831.0,0.0,171881.689376
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,12.544631004333496,0.0,24.43,11831.0,0.0,172944.528086
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.556546688079834,100.0,41.58,11861.0,0.1,173858.888965
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",12.261881113052368,0.0,24.35,11831.0,0.1,174040.799754
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,12.806841850280762,0.0,24.38,11831.0,0.0,175078.939125
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.526681900024414,99.0,41.02,11861.0,0.0,175997.243171
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",13.858585357666016,0.0,24.28,11831.0,0.0,176170.879262
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,12.953250646591188,0.0,24.41,11831.0,0.2,177368.706884
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.5515265464782715,99.0,42.34,11861.0,0.0,178324.568573
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",12.58671259880066,0.0,24.45,11831.0,0.0,178492.675442
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,12.644072771072388,0.0,24.47,11831.0,0.3,179577.654232
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.569826602935791,99.0,42.23,11861.0,0.0,180494.935209
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",12.489657640457152,0.0,24.51,11831.0,0.0,180669.986885
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,12.663098812103271,0.0,24.49,11831.0,0.5,181731.242652
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.4286415576934814,100.0,42.33,11861.0,0.1,182659.698588
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",15.2996723651886,0.0,24.31,11831.0,0.0,182835.448566
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,13.801852464675903,0.0,24.27,11831.0,0.3,184170.818743
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.657202243804932,100.0,39.41,11861.0,0.0,185133.443293
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",12.304195642471312,0.0,24.34,11831.0,1.0,185308.081396
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,12.577599048614502,0.0,24.28,11831.0,0.0,186370.97876
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.51506781578064,100.0,39.35,11861.0,0.0,187277.195862
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",12.49583864212036,0.0,24.35,11831.0,0.1,187451.656414
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,12.595593690872192,0.0,24.45,11831.0,0.0,188526.319922
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.562814474105835,100.0,40.76,11861.0,0.0,189445.991579
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",13.861915588378906,0.0,24.32,11831.0,0.0,189618.914903
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,13.033124685287476,0.0,24.39,11831.0,0.0,190794.371367
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.465431451797485,100.0,41.6,11861.0,0.0,191690.976005
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",15.000362873077393,0.0,24.42,11831.0,0.0,191868.70077
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,13.602944135665894,0.0,24.43,11831.0,0.3,193167.574825
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.555561065673828,100.0,42.16,11861.0,0.0,194161.17067
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",12.439158916473389,0.0,24.46,11831.0,0.0,194337.08593
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,12.761389017105104,0.0,24.38,11831.0,0.2,195436.662095
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.5606513023376465,100.0,40.3,11861.0,0.1,196357.548226
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",14.263366222381592,0.0,24.38,11831.0,0.0,196538.041111
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,12.896954774856567,0.0,24.39,11831.0,0.0,197768.068907
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.5478129386901855,96.0,39.14,11861.0,0.0,198641.851827
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",13.345486164093018,0.0,24.46,11831.0,0.0,198818.455256
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,13.502269268035889,0.0,24.36,11831.0,0.3,200005.404
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.650716066360474,100.0,39.13,11861.0,0.0,200925.271579
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",12.511955261230469,0.0,24.41,11831.0,0.0,201102.383247
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,12.724596500396729,0.0,24.44,11831.0,0.0,202197.878795
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.546305179595947,100.0,39.41,11861.0,0.1,203100.698322
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",14.46285843849182,0.0,24.42,11831.0,3.1,203275.780088
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,12.705337285995483,0.0,24.5,11831.0,0.1,204731.638056
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.601565361022949,98.0,40.24,11861.0,0.0,205755.571653
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",12.12345838546753,0.0,24.32,11831.0,3.2,205933.759734
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,12.068952322006226,0.0,24.4,11831.0,0.0,207324.511545
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.613995790481567,99.0,39.13,11861.0,0.0,208477.9218
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",12.52609372138977,0.0,24.32,11831.0,0.1,208649.409337
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,12.793946504592896,0.0,24.35,11831.0,0.7,209746.723484
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.473532438278198,100.0,39.73,11861.0,0.0,210694.683093
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",15.76625370979309,0.0,24.28,11831.0,0.0,210868.858611
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,13.866671085357666,0.0,24.25,11831.0,0.0,212238.559878
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.6927876472473145,95.0,41.73,11861.0,0.0,213211.497267
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",12.50299906730652,0.0,24.36,11831.0,0.0,213397.763148
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,12.715110063552856,0.0,24.13,11831.0,0.0,214477.249032
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.508059024810791,100.0,40.85,11861.0,0.0,215400.886194
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",12.39680528640747,0.0,24.43,11831.0,0.0,215576.533144
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,12.619683265686035,0.0,24.46,11831.0,0.0,216627.943599
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.479095697402954,100.0,40.64,11861.0,0.0,217502.881789
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",14.114048480987549,0.0,24.46,11831.0,0.0,217688.19119
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,13.02799916267395,0.0,24.32,11831.0,0.0,218871.617055
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.759810447692871,100.0,39.92,11861.0,0.0,219792.737133
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",12.363585472106934,0.0,24.32,11831.0,0.0,219968.786731
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,12.718260526657104,0.0,24.37,11831.0,0.0,221015.255793
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.605805397033691,100.0,39.75,11861.0,0.0,221896.490598
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",14.397117853164673,0.0,24.34,11831.0,0.3,222071.191506
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,13.237183332443236,0.0,24.48,11831.0,0.0,223346.056589
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.542200326919556,100.0,40.17,11861.0,0.0,224244.3002
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",12.4939706325531,0.0,24.29,11831.0,0.1,224428.487107
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,12.692609786987305,0.0,24.32,11831.0,0.0,225508.151518
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.560960054397583,100.0,41.63,11861.0,0.1,226400.005253
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",14.659920454025269,0.0,24.19,11831.0,0.0,226581.635403
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,13.22927474975586,0.0,24.35,11831.0,0.0,227791.489911
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.5794453620910645,97.0,41.92,11861.0,0.0,228713.137088
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",12.426754474639893,0.0,24.4,11831.0,0.0,228884.067619
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,12.743149042129517,0.0,24.37,11831.0,0.0,229967.469875
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.5530478954315186,100.0,41.77,11861.0,0.0,230847.992218
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",12.245033502578735,0.0,24.41,11831.0,0.0,231028.234493
+question_answering,Who wrote 'Pride and Prejudice'?,Qwen/Qwen2.5-7B,Who wrote 'Pride and Prejudice'? Jane Austen,12.90417766571045,0.0,24.41,11831.0,0.0,232088.16928
+question_answering,Who wrote 'Pride and Prejudice'?,google/gemma-2-2b-it,"Who wrote 'Pride and Prejudice'?
+
+**Answer:** Jane Austen 
+",5.583726644515991,99.0,40.13,11861.0,0.0,232991.47666
+question_answering,Who wrote 'Pride and Prejudice'?,mistralai/Mistral-7B-Instruct-v0.3,"Who wrote 'Pride and Prejudice'?
+
+Jane Austen wrote '",13.920631885528564,0.0,24.31,11831.0,0.0,233162.594203
