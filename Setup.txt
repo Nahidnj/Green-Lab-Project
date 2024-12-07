@@ -1,0 +1,7 @@
+install GPUtil
+install psutil
+install subprocess
+install time
+install transformers
+install torch
+install csv
