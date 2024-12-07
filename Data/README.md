@@ -25,23 +25,5 @@ The dataset includes records of various tasks performed by different LLMs, captu
 | `CPU Utilization (%)`    | `float64`     | The percentage of CPU resources utilized during the inference.                                  |
 | `CPU Power (j)`          | `float64`     | The energy consumption of the CPU during inference, measured in joules.                        |
 
----
 
-## 📊 Example Rows
-
-| **Task**         | **Prompt**                | **Model**           | **Response**          | **Duration (s)** | **GPU Utilization (%)** | **GPU Power (W)** | **VRAM Usage (MB)** | **CPU Utilization (%)** | **CPU Power (j)** |
-|-------------------|---------------------------|----------------------|------------------------|-------------------|--------------------------|--------------------|----------------------|--------------------------|--------------------|
-| Classification    | "Classify this text: ..." | Qwen2.5-7B          | "Positive"            | 2.5               | 75.0                     | 120.0              | 8900                | 2.0                      | 40.0               |
-| Sentiment Analysis| "Analyze sentiment: ..."  | Gemma-2-2b-it        | "Neutral"             | 1.8               | 60.0                     | 100.0              | 7800                | 1.5                      | 30.0               |
-| Question Answering| "What is the capital...?" | Mistral-7B-Instruct  | "Paris"               | 3.2               | 85.0                     | 140.0              | 9200                | 2.5                      | 50.0               |
-
----
-
-## 🔍 How to Use This Dataset
-
-1. **Load the Dataset**:
-   Use Python's `pandas` library to load the dataset:
-   ```python
-   import pandas as pd
-   data = pd.read_csv('path/to/your/dataset.csv')
 
