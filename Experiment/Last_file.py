@@ -59,12 +59,12 @@ def get_cpu_power():
     try:
         # This method uses RAPL to read CPU power consumption on Linux
         # Read the power data from the system file corresponding to the CPU package
-        power_file = '/sys/class/powercap/intel-rapl:0/energy_uj'  # This may vary depending on your system
+        power_file = '/sys/class/powercap/intel-rapl:0/energy_uj' 
 
         with open(power_file, 'r') as f:
             energy_uj = int(f.read().strip())
 
-        # RAPL returns energy in microjoules, so convert to watts
+        # RAPL returns energy in microjoules
         power_watt = energy_uj / 1_000_000  # Convert microjoules to joules
         return power_watt
 
