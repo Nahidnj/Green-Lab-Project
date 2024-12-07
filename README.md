@@ -36,5 +36,5 @@ By understanding the relationship between prompt type and energy efficiency, thi
 ├── Experiment/               # Python scripts for analysis
 ├── Plots/                    # Generated plots and visualizations and R script
 ├── README.md                 # Project documentation (this file)
-└── setup.txt                 # Requerments
+└── Setup.txt                 # Requerments
 
