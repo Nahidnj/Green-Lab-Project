@@ -5,9 +5,9 @@
 ## 📜 Project Overview
 This project analyzes how different prompt designs influence the energy efficiency of Large Language Models (LLMs) during inference. The study evaluates resource utilization, power consumption, and performance across various NLP tasks (e.g., classification, sentiment analysis, question answering) using state-of-the-art models such as:
 
-- [**Qwen2.5-7B**]([https://huggingface.co/Qwen/Qwen-7B](https://huggingface.co/Qwen/Qwen2.5-7B))
-- [**Gemma-2-2b-it**]([https://huggingface.co/google/gemma-2-2b-it](https://huggingface.co/google/gemma-2-2b-it))
-- [**Mistral-7B-Instruct-v0.3**]([https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3))
+- [**Qwen2.5-7B**](https://huggingface.co/Qwen/Qwen2.5-7B)
+- [**Gemma-2-2b-it**](https://huggingface.co/google/gemma-2-2b-it)
+- [**Mistral-7B-Instruct-v0.3**](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3)
 
 
 By understanding the relationship between prompt type and energy efficiency, this research aims to provide actionable insights for sustainable AI deployment.
