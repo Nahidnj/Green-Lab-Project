@@ -1,6 +1,6 @@
 # Investigating the Impact of Prompt Design on Energy Efficiency of Large Language Models (LLMs)
 
-![Project Banner](https://via.placeholder.com/800x200.png?text=Investigating+LLMs+Energy+Efficiency)
+![Project Banner](assets/banner1.png)
 
 ## 📜 Project Overview
 This project analyzes how different prompt designs influence the energy efficiency of Large Language Models (LLMs) during inference. The study evaluates resource utilization, power consumption, and performance across various NLP tasks (e.g., classification, sentiment analysis, question answering) using state-of-the-art models such as:
