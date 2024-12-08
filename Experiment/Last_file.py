@@ -1,6 +1,4 @@
 
-
-#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
 import GPUtil
 import psutil
 import subprocess
