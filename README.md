@@ -32,7 +32,7 @@ By understanding the relationship between prompt type and energy efficiency, thi
 
 ## 📂 Repository Structure
 ```plaintext
-├──Data/                      # Dataset used for experiments
+├── Data/                     # Dataset used for experiments
 ├── Experiment/               # Python scripts for analysis
 ├── Figures/                  # Generated plots and visualizations and 
 ├── Visualization/            # R script
