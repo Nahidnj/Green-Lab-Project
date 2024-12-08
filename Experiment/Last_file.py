@@ -103,7 +103,7 @@ def run_model(prompt, model_name, access_token):
 
 # Main function to collect results and save them in a CSV
 def main():
-    access_token = "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"  # Replace with your actual token
+    access_token = "your_api_token"  # Replace with your actual token
     models = ["Qwen/Qwen2.5-7B", "google/gemma-2-2b-it", "mistralai/Mistral-7B-Instruct-v0.3"]
 
     with open('model_performance.csv', mode='w', newline='') as csvfile:
